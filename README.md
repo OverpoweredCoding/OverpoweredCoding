@@ -1,10 +1,10 @@
 ### Hi there, I'm Overpowered - aka [OP] 👋 
 
-## I'm a Developer and Content Creator
+## I'm just a man trying to make my way through the universe.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- Developer for 5+ years with tons of projects
+- Hit me up for comissions and collabs
+- If you don't understand something in my repositories, read fucking the manual first
 
 ### Languages and Tools:
 
