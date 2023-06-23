@@ -1,6 +1,7 @@
 # Hello there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=OverpoweredCoding.OverpoweredCoding)
+[![Followers](https://img.shields.io/github/followers/OverpoweredCoding?label=Follow&style=social)](https://github.com/OverpoweredCoding?tab=followers)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
