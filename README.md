@@ -2,7 +2,7 @@
 
 [![Followers](https://img.shields.io/github/followers/OverpoweredCoding?label=Follow&style=social)](https://github.com/OverpoweredCoding?tab=followers)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=OverpoweredCoding.OverpoweredCoding)
-[![Static Badge](https://img.shields.io/badge/Commissions-Hit_me_up-blue)](mailto:dev.jake.holmes@outlook.com)
+[![Static Badge](https://img.shields.io/badge/Commissions-Hit_me_up-blue)](mailto:admin@argonautllc.org)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
