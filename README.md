@@ -17,7 +17,7 @@ class Developer:
         self.language_spoken = ["es-ES", "en_US"]
 
     def message(self):
-        print("Thanks for stopping by! Feel free to reach out to me for comissions or just to chat in general.")
+        print("Thanks for stopping by! Feel free to reach out to me for commissions or just to chat in general.")
 
 
 OverpoweredCoding = Developer()
